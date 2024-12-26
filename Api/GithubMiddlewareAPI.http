@@ -1,0 +1,6 @@
+@GithubMiddlewareAPI_HostAddress = http://localhost:5027
+
+GET {{GithubMiddlewareAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

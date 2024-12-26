@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAATbByY6+LA0qXUq05SnqasQAAAAACAAAAAAADZgAAwAAAABAAAAAKydYRaeCxAonpkRk6lhjLAAAAAASAAACgAAAAEAAAAHiqip/Malii2L2GTFnBeciAAAAAgJEiljyjhWwW7QiQHDkodxBBDrmdovqwnw87X+5n/z/L/W/QBuuwGj/kbraOHf1XVRBU/Di3wBA5Rj1ak1p7W4XzyYfo7a5A/S8pOxNKOMdxqV0wXSotJ1GAbeliS8+6IoTSbk4TN2d70dL77gjuqpGM6OqcYkQB/MeWSez72HwUAAAAVAhXV96eYPa8UBrjPsZV66aO0kA=</EncryptedPassword>
+    <History>False|2024-12-26T17:52:18.2813995Z||;False|2024-12-26T12:49:30.0316350-03:00||;False|2024-12-26T12:48:23.9787500-03:00||;False|2024-12-26T12:47:58.1257488-03:00||;False|2024-12-26T12:47:36.0750923-03:00||;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>ftps://waws-prod-cq1-031.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
